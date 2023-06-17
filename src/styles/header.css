@@ -1,0 +1,13 @@
+#nav-bar ul li{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 2px;
+}
+
+#nav-bar ul li:hover{
+    cursor: pointer;
+}
+
